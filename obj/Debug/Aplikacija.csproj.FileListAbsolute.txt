@@ -1,0 +1,7 @@
+F:\OS\Mutex Kod\Aplikacija\Aplikacija\bin\Debug\Aplikacija.exe.config
+F:\OS\Mutex Kod\Aplikacija\Aplikacija\bin\Debug\Aplikacija.exe
+F:\OS\Mutex Kod\Aplikacija\Aplikacija\bin\Debug\Aplikacija.pdb
+F:\OS\Mutex Kod\Aplikacija\Aplikacija\obj\Debug\Aplikacija.csprojAssemblyReference.cache
+F:\OS\Mutex Kod\Aplikacija\Aplikacija\obj\Debug\Aplikacija.csproj.CoreCompileInputs.cache
+F:\OS\Mutex Kod\Aplikacija\Aplikacija\obj\Debug\Aplikacija.exe
+F:\OS\Mutex Kod\Aplikacija\Aplikacija\obj\Debug\Aplikacija.pdb
